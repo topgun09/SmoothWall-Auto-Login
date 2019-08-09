@@ -3,9 +3,9 @@ Chrome exstension to keep you logged into SmoothWall because it times out.
 
 >Warning: ls.zebras.net SmoothWall server only!
 
->This exstension has bugs & is not that useful anymore
+>This extension has bugs & is not that useful anymore
 
 # INSTALL
-- Go to the Chrome webstore link https://chrome.google.com/webstore/detail/auto-sign-in-for-lszebras/fobkddihflhjimpkcbpijgbgfchpknni
+- Go to the Chrome Webstore link https://chrome.google.com/webstore/detail/auto-sign-in-for-lszebras/fobkddihflhjimpkcbpijgbgfchpknni
 
 - Click install
